@@ -1,2 +1,2 @@
-include ':app', ':message-praser-compiler', ':message-parser'
-rootProject.name='MessagePraser'
+include ':app', ':message-parser-compiler', ':message-parser'
+rootProject.name='MessageParser'

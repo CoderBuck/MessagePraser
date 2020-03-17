@@ -35,7 +35,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
     implementation project(path: ':message-parser')
-    annotationProcessor project(path: ':message-praser-compiler')
+    annotationProcessor project(path: ':message-parser-compiler')
 //    implementation project(path: ':message-parser')
 //    annotationProcessor 'com.google.auto.service:auto-service:1.0-rc6'
 }
